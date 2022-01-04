@@ -1,0 +1,33 @@
+body {
+    font-family: 'Raleway', sans-serif;
+  }
+
+#logoviaje{
+  width: 50px; 
+}
+
+#Carousel{
+width:100%;
+}
+
+#Quienes_Somos{
+  background-color: #000000;
+}
+
+hr {
+  background-color: #00aae4;
+}
+
+#Destacados{
+  background-color: #000000;
+}
+
+.card
+{
+  background-color: #00aae4!important ; 
+}
+
+footer{
+  background-color: #00aae4
+
+}
